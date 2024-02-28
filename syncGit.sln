@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "syncGit", "syncGit\syncGit.csproj", "{14A9687B-CC7C-459B-AEC5-B5549EB2DF59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REBAR", "REBAR\REBAR.csproj", "{1D5CD3F8-85AE-438B-B05D-5452E8BD21B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{14A9687B-CC7C-459B-AEC5-B5549EB2DF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14A9687B-CC7C-459B-AEC5-B5549EB2DF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14A9687B-CC7C-459B-AEC5-B5549EB2DF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5CD3F8-85AE-438B-B05D-5452E8BD21B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5CD3F8-85AE-438B-B05D-5452E8BD21B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5CD3F8-85AE-438B-B05D-5452E8BD21B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5CD3F8-85AE-438B-B05D-5452E8BD21B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
