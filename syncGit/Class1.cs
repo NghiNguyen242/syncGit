@@ -8,5 +8,6 @@ namespace syncGit
 {
     public class Class1
     {
+        string nghi = "nghábsvf";
     }
 }
