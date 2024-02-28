@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "syncGit", "syncGit\syncGit.csproj", "{14A9687B-CC7C-459B-AEC5-B5549EB2DF59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A9687B-CC7C-459B-AEC5-B5549EB2DF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A9687B-CC7C-459B-AEC5-B5549EB2DF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A9687B-CC7C-459B-AEC5-B5549EB2DF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A9687B-CC7C-459B-AEC5-B5549EB2DF59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90D18944-8231-4E3F-B3CA-C5751C8E8C8D}
+	EndGlobalSection
+EndGlobal
